@@ -2,7 +2,7 @@
 <h3 align="center">CS Student @ Horus University | Cybersecurity Enthusiast 🛡️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Cyber+Security+Student;Ethical+Hacker+in+Training;Building+Sitr+%26+JF-Security;Linux+%26+CLI+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Cyber+Security+Student;Ethical+Hacker+in+Training;Artificial+Intelligence+Student;Linux+%26+CLI+Lover" alt="Typing SVG" />
 </p>
 
 <p align="center">
