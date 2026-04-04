@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on **Sitr** (a faith-based CLI tool) & **JF-Security**.
 - ⚡ I’m currently diving deep into **C++, Python, JavaScript**, **Discrete Mathematics**, and **AI**.
 - 🛡️ Sharpening my cybersecurity skills focusing on **OSINT, Network Security, and Bug Bounties**.
-- 🍎 Coding from my **MacBook Air (M4)** using **Linux (Lima)** and terminal tools. 
+- 🍎 I'm currently using **MacBook** using **Linux (Lima)** and terminal tools. 
 ---
 
 ### 🛠️ Tech Stack & Tools
