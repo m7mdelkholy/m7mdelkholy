@@ -39,4 +39,10 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=m7mdelkholy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+---
 
+### 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/m7mdelkholy/m7mdelkholy/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
